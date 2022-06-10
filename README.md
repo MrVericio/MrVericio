@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrVericio
 - 👀 I’m interested in learn and contribute to the community.
-- 🌱 I’m currently learning Java, Object Oriented, Angular and React Native
+- 🌱 I’m currently learning Java, Object Oriented, Angular, React Native, HTML and CSS.
 - 💞️ I’m looking to collaborate on development and creation of technologies that change the world!
 - 📫 How to reach me TW: https://bit.ly/3axPT3w , IG: https://bit.ly/3GHfMtB , LI: https://bit.ly/3NHrTcs
 
